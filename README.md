@@ -6,7 +6,7 @@
 
 - 🗄 Database: MySQL| PostgreSQL | Redis
 
-- I am interested in data visualization. I am developing data visualization libraries with rust.
+- ❤️ I am interested in data visualization. I am developing data visualization libraries with rust.
   
 <!--
 **LangPham/LangPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
