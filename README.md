@@ -1,20 +1,13 @@
-# I'm a full stack developer
+# I'm a full stack developer:
 
-📝 Programming Languages:
-- Elixir
-- Golang
-- Rust
+- 📝 Programming Languages: Elixir | Golang | Rust
 
-🔧 Frameworks:
-- Phoenixframework
-- Fiber
-- Actix
-- Axum
+- 🔧 Frameworks: Phoenixframework | Fiber | Actix | Axum
 
-🗄 Database:
-- MySQL
-- PostgreSQL
-- Redis
+- 🗄 Database: MySQL| PostgreSQL | Redis
+
+- I am interested in data visualization. I am developing data visualization libraries with rust.
+  
 <!--
 **LangPham/LangPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
