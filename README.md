@@ -2,7 +2,7 @@
 
 - 📝 Programming Languages: Elixir | Golang | Rust
 
-- 🔧 Frameworks: Phoenixframework | Fiber | Actix | Axum
+- 🔧 Frameworks: Phoenixframework | Fiber | Actix | Axum | Leptos
 
 - 🗄 Database: MySQL| PostgreSQL | Redis
 
